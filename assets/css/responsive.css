@@ -1,0 +1,31 @@
+@media (max-width:600px) {
+
+    .container {
+        gap: 6vw;
+        flex-wrap: wrap;
+        margin-top: 5vw;
+    }
+
+    div1{
+        margin-left:5%;
+    }
+
+}
+
+
+@media (max-width:1000px) {
+
+    section {
+        min-height: 15vmax;
+    
+    }
+    .newtask-text{
+        font-size: 4vw;
+    }
+
+    input[type="text"]{
+        min-width:35vw;
+        font-size: 3vw;
+    }
+    
+}

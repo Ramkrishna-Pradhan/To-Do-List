@@ -1,0 +1,27 @@
+.fa-book {
+    position: absolute;
+    margin-left: 2vw;
+    font-size: 5vw;
+    transform: translatey(-140%);
+    z-index: 2;
+    padding: 2vw;
+    border-radius: 50%;
+    border: 0.1vw solid black;
+    background-color:rgb(225, 214, 8);
+
+}
+
+.fa-book-open{
+    font-size: 80%;
+}
+
+.fa-circle-dot{
+    font-size: 90%;
+}
+
+#crossmark{
+    position:absolute;
+    margin-left: 80%;
+    font-size: x-large;
+
+}

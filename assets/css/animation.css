@@ -1,0 +1,35 @@
+#top-text{
+    transform: translatey(-18vw);
+    margin-left: 20vw;
+    font-size: 4vw;
+    color: #ffffff;
+    /* animation:texta 2s ease infinite; */
+}
+
+@keyframes texta{
+    0%,100%{
+        transform: translateY(-18vw);
+    }
+
+    50%{
+        transform: translateY(-25vw);
+    }
+}
+
+.div3{
+    background: #b00505;
+    width: 40px;
+    height: 40px;
+}
+
+
+.animated-image{
+   height:100%;
+   width: 30%;
+   margin-left: 15vw;
+}
+
+.animated-imagebox{
+    display: flex;
+}
+
