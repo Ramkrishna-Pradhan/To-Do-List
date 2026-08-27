@@ -18,7 +18,7 @@ A clean, responsive, and fully animated To-Do List web application designed to h
 
 *   **HTML5:** Semantic structure and component-based design.
 *   **CSS3:** Modular styling (`main.css`, `components.css`), responsive layouts (`responsive.css`), and keyframe animations (`animation.css`).
-*   **Vanilla JavaScript:** DOM manipulation and interactive logic (`index.js`, `animation.js`).
+*   **JavaScript:** DOM manipulation and interactive logic (`index.js`, `animation.js`).
 
 ## 📂 Project Structure
 
