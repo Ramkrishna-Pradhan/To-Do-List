@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ramkrishna</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# 📝 To-Do List Application
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna-pradhan" /> </p>
+<div>
+  <img src="assets/image/Bullet%20journal.gif" alt="To-Do List Animation" width="400" height="300">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramkrishna-pradhan" alt="ramkrishna-pradhan" /></a> </p>
+A clean, responsive, and fully animated To-Do List web application designed to help you organize your day and manage tasks efficiently. This project features a modular architecture, custom graphics, and smooth user interactions.
 
-# 📚 About To-Do List:
- This application allows users to create, organize, and track their daily tasks efficiently. With a clean 
-and intuitive interface, users can easily add new tasks, mark them as complete, and categorize them based on priority or tags.
+## ✨ Features
 
-<h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramkrishna-pradhan-85a85832b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramkrishna-pradhan-85a85832b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100081058921359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100081058921359" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ramkrishnapradhan918/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ramkrishnapradhan918/?hl=en" height="30" width="40" /></a>
-</p>
+*   **Interactive Task Management:** Easily add, track, and manage your daily goals.
+*   **Fluid Animations:** Engaging visual feedback powered by dedicated CSS and JavaScript animation files.
+*   **Fully Responsive:** Optimized for a seamless experience across desktop, tablet, and mobile devices.
+*   **Modular Architecture:** Clean, maintainable code structure separating logic, styling, and reusable components like the header.
+*   **Custom Visuals:** Incorporates beautiful notebook-themed imagery and custom UI icons.
 
-<h1 align="left">Languages and Tools:</h1>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> </p>
+## 🛠️ Technologies Used
 
+*   **HTML5:** Semantic structure and component-based design.
+*   **CSS3:** Modular styling (`main.css`, `components.css`), responsive layouts (`responsive.css`), and keyframe animations (`animation.css`).
+*   **Vanilla JavaScript:** DOM manipulation and interactive logic (`index.js`, `animation.js`).
 
+## 📂 Project Structure
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramkrishna-pradhan&show_icons=true&locale=en" alt="ramkrishna-pradhan" /></p>
+```text
+├── assets/
+│   ├── css/        # Core styles, components, responsiveness, and animations
+│   ├── icons/      # Custom UI icons
+│   ├── image/      # header.jpg, notebook-image.jpg, and gifs
+│   └── js/         # Main application logic and animation scripts
+├── components/
+│   └── header.html # Reusable header layout
+├── index.html      # Main application entry point
+└── README.md       # Project documentation
+```
+## 🎯 Learning Objectives
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramkrishna-pradhan&" alt="ramkrishna-pradhan" /></p>
+This project was built to practice and solidify fundamental front-end web development skills. By completing this To-Do List, the primary learning outcomes included:
+
+*   **DOM Manipulation:** Dynamically creating, updating, and deleting HTML elements using Vanilla JavaScript without relying on external libraries.
+*   **CSS Animations & Keyframes:** Implementing smooth, custom visual transitions (such as the bullet journal effects) to enhance the user experience.
+*   **Responsive Web Design:** Utilizing media queries and flexible layouts to ensure the application adapts flawlessly to desktop, tablet, and mobile screens.
+*   **Modular Code Architecture:** Organizing a project structure by separating concerns into distinct, maintainable files (e.g., separating main styles, component styles, and animation logic).
+*   **Event Handling:** Managing user interactions, such as form submissions and button clicks, to trigger real-time UI updates.
+
+## ⭐ Support
+If you found this project useful or interesting, consider giving the repository a ⭐ on GitHub. Your support is appreciated!
+
